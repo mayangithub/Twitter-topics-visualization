@@ -1,0 +1,39 @@
+h2{
+	font-weight: initial;
+	font-family: "Arial";
+	padding-top: 50px;
+}
+
+h1{
+	font-weight: 700;
+}
+
+h4{
+	font-weight: initial;
+}
+
+.container{
+	margin-left: 200px;
+	padding-right: 300px;
+	padding-bottom: 200px;
+}
+
+#abstract{
+	background-color: #EFF7FF;
+	padding: 10px;
+}
+
+a:link{
+	color: #0066FF;
+}
+a:visited{
+	color: #0066FF;
+}
+
+#screenshots{
+	width: 700px;
+	height: 500px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
